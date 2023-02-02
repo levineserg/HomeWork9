@@ -1,0 +1,15 @@
+G:\Мой диск\GB\C#\HomeWork9\task64\obj\Debug\net6.0\task64.csproj.AssemblyReference.cache
+G:\Мой диск\GB\C#\HomeWork9\task64\obj\Debug\net6.0\task64.GeneratedMSBuildEditorConfig.editorconfig
+G:\Мой диск\GB\C#\HomeWork9\task64\obj\Debug\net6.0\task64.AssemblyInfoInputs.cache
+G:\Мой диск\GB\C#\HomeWork9\task64\obj\Debug\net6.0\task64.AssemblyInfo.cs
+G:\Мой диск\GB\C#\HomeWork9\task64\obj\Debug\net6.0\task64.csproj.CoreCompileInputs.cache
+G:\Мой диск\GB\C#\HomeWork9\task64\bin\Debug\net6.0\task64.exe
+G:\Мой диск\GB\C#\HomeWork9\task64\bin\Debug\net6.0\task64.deps.json
+G:\Мой диск\GB\C#\HomeWork9\task64\bin\Debug\net6.0\task64.runtimeconfig.json
+G:\Мой диск\GB\C#\HomeWork9\task64\bin\Debug\net6.0\task64.dll
+G:\Мой диск\GB\C#\HomeWork9\task64\bin\Debug\net6.0\task64.pdb
+G:\Мой диск\GB\C#\HomeWork9\task64\obj\Debug\net6.0\task64.dll
+G:\Мой диск\GB\C#\HomeWork9\task64\obj\Debug\net6.0\refint\task64.dll
+G:\Мой диск\GB\C#\HomeWork9\task64\obj\Debug\net6.0\task64.pdb
+G:\Мой диск\GB\C#\HomeWork9\task64\obj\Debug\net6.0\task64.genruntimeconfig.cache
+G:\Мой диск\GB\C#\HomeWork9\task64\obj\Debug\net6.0\ref\task64.dll
